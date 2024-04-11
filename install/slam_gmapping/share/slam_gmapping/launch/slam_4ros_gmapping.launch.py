@@ -1,0 +1,1 @@
+/home/ndp/ydlidar_ws/slam_gmapping/launch/slam_4ros_gmapping.launch.py

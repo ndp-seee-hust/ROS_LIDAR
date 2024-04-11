@@ -1,0 +1,1 @@
+/home/ndp/ydlidar_ws/openslam_gmapping/include/gmapping/sensor/sensor_range/rangereading.h
