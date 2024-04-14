@@ -25,6 +25,8 @@ import lifecycle_msgs.msg
 import os
 
 
+
+
 def generate_launch_description():
     share_dir = get_package_share_directory('ydlidar_ros2_driver')
     parameter_file = LaunchConfiguration('params_file')
