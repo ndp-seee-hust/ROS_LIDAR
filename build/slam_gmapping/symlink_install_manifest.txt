@@ -3,8 +3,10 @@
 /home/ndp/ydlidar_ws/install/slam_gmapping/share/slam_gmapping/launch/gmapping_4ros_launch.py
 /home/ndp/ydlidar_ws/install/slam_gmapping/share/slam_gmapping/launch/gmapping_x3_launch.py
 /home/ndp/ydlidar_ws/install/slam_gmapping/share/slam_gmapping/launch/slam_4ros_gmapping.launch.py
-/home/ndp/ydlidar_ws/install/slam_gmapping/share/slam_gmapping/launch/slam_x3_gmapping.launch.py
 /home/ndp/ydlidar_ws/install/slam_gmapping/share/slam_gmapping/launch/test_gmapping.launch.py
+/home/ndp/ydlidar_ws/install/slam_gmapping/share/slam_gmapping/launch/x3_slam.py
+/home/ndp/ydlidar_ws/install/slam_gmapping/share/slam_gmapping/launch/ydlidar_slam.py
+/home/ndp/ydlidar_ws/install/slam_gmapping/share/slam_gmapping/params/slam_gmapping.yaml
 /home/ndp/ydlidar_ws/install/slam_gmapping/share/ament_index/resource_index/package_run_dependencies/slam_gmapping
 /home/ndp/ydlidar_ws/install/slam_gmapping/share/ament_index/resource_index/parent_prefix_path/slam_gmapping
 /home/ndp/ydlidar_ws/install/slam_gmapping/share/slam_gmapping/environment/ament_prefix_path.sh

@@ -16,5 +16,5 @@ def generate_launch_description():
             executable='slam_gmapping',
             output='screen',
             parameters=[os.path.join(get_package_share_directory("slam_gmapping"), "params", "slam_gmapping.yaml")]
-        ),
+        )
     ])

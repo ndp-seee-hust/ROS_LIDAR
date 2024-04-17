@@ -1,0 +1,1 @@
+/home/ndp/ydlidar_ws/slam_gmapping/launch/ydlidar_slam.py

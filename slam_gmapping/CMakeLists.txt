@@ -70,7 +70,7 @@ install(TARGETS slam_gmapping
 install(TARGETS transform
         DESTINATION lib/${PROJECT_NAME})
 
-install(DIRECTORY launch
+install(DIRECTORY launch params
 	    DESTINATION share/${PROJECT_NAME})
 
 ament_package()

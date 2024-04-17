@@ -46,7 +46,7 @@ def generate_launch_description():
             namespace='map_rviz',
             executable='rviz2',
             output='screen',
-            arguments = [ '-d', "/home/yahboom/ydlidar_ws/src/slam_gmapping/rviz/view_gmapping.rviz"],
+            arguments = [ '-d', "/home/ndp/ydlidar_ws/src/slam_gmapping/rviz/test_gmapping.rviz"],
         )
       
     ])

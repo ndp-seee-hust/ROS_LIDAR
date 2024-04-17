@@ -316,8 +316,8 @@ include("/home/ndp/ydlidar_ws/build/slam_gmapping/ament_cmake_symlink_install_ta
 # install("TARGETS" "transform" "DESTINATION" "lib/slam_gmapping")
 include("/home/ndp/ydlidar_ws/build/slam_gmapping/ament_cmake_symlink_install_targets_1_${CMAKE_INSTALL_CONFIG_NAME}.cmake")
 
-# install(DIRECTORY "launch" "DESTINATION" "share/slam_gmapping")
-ament_cmake_symlink_install_directory("/home/ndp/ydlidar_ws/slam_gmapping" DIRECTORY "launch" "DESTINATION" "share/slam_gmapping")
+# install(DIRECTORY "launch" "params" "DESTINATION" "share/slam_gmapping")
+ament_cmake_symlink_install_directory("/home/ndp/ydlidar_ws/slam_gmapping" DIRECTORY "launch" "params" "DESTINATION" "share/slam_gmapping")
 
 # install(FILES "/home/ndp/ydlidar_ws/build/slam_gmapping/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/slam_gmapping" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 ament_cmake_symlink_install_files("/home/ndp/ydlidar_ws/slam_gmapping" FILES "/home/ndp/ydlidar_ws/build/slam_gmapping/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/slam_gmapping" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")

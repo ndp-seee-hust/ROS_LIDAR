@@ -2,7 +2,7 @@
   ros__parameters:
     angularUpdate: 0.5
     astep: 0.05
-    base_frame: base_footprint
+    base_frame: base_link
     map_frame: map
     odom_frame: odom
     delta: 0.05
